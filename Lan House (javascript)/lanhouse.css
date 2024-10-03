@@ -1,0 +1,13 @@
+body{
+    font: 12pt   Arial;
+    justify-content: center;
+}
+
+button{
+    font-size: 12pt;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
